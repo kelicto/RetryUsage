@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace KeLi.RetryUsage.App
+namespace KeLi.FormRetry.App
 {
     internal static class Program
     {

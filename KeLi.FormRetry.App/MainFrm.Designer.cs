@@ -1,4 +1,4 @@
-﻿namespace KeLi.RetryUsage.App
+﻿namespace KeLi.FormRetry.App
 {
     partial class MainForm
     {

@@ -2,7 +2,9 @@
 using System.Threading;
 using System.Windows.Forms;
 
-namespace KeLi.RetryUsage.App
+using KeLi.FormRetry.App.Utils;
+
+namespace KeLi.FormRetry.App
 {
     public partial class MainForm : Form
     {

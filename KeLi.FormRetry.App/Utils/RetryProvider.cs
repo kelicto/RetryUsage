@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Runtime.InteropServices;
 using System.Threading;
 
-namespace KeLi.RetryUsage.App
+namespace KeLi.FormRetry.App.Utils
 {
     public class RetryProvider : IDisposable
     {
